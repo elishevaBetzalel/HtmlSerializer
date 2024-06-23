@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ajmtt+uD6UpNEXG2VZFEMkDbty8HvM8RutcLBXM+/EhDVN3TpUslXNxeNpkfqaMsNXJR71Fpu3xJ2Au4yX/tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The user\\Documents\\מסלול\\פרקטיקוד\\פרויקט2\\crawler -הגשה\\crawler\\פרויקט2\\פרויקט2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\system.text.regularexpressions\\4.3.1\\system.text.regularexpressions.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

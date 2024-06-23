@@ -1,0 +1,147 @@
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.exe
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlTags.json
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlVoidTags.json
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.deps.json
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.runtimeconfig.json
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.pdb
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Json.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.AssemblyReference.cache
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfoInputs.cache
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfo.cs
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CoreCompileInputs.cache
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CopyComplete
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\refint\פרויקט2.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.pdb
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.genruntimeconfig.cache
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\ref\פרויקט2.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.exe
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlTags.json
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlVoidTags.json
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.deps.json
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.runtimeconfig.json
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.pdb
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Json.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.AssemblyReference.cache
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.GeneratedMSBuildEditorConfig.editorconfig
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfoInputs.cache
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfo.cs
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CoreCompileInputs.cache
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CopyComplete
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\refint\פרויקט2.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.pdb
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.genruntimeconfig.cache
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט2\פרויקט2\obj\Debug\net6.0\ref\פרויקט2.dll
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.AssemblyReference.cache
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.GeneratedMSBuildEditorConfig.editorconfig
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfoInputs.cache
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfo.cs
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CoreCompileInputs.cache
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.dll
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\refint\פרויקט2.dll
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.pdb
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.exe
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlTags.json
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlVoidTags.json
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.deps.json
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.runtimeconfig.json
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.dll
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.pdb
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Json.dll
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CopyComplete
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.genruntimeconfig.cache
+D:\מסלול\פרקטיקוד\פרויקט2\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\ref\פרויקט2.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.exe
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlTags.json
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlVoidTags.json
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.deps.json
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.runtimeconfig.json
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.pdb
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Json.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.AssemblyReference.cache
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfoInputs.cache
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfo.cs
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CoreCompileInputs.cache
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CopyComplete
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\refint\פרויקט2.dll
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.pdb
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.genruntimeconfig.cache
+G:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט טוב\פרויקט2\פרויקט2\obj\Debug\net6.0\ref\פרויקט2.dll
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.exe
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlTags.json
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlVoidTags.json
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.deps.json
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.runtimeconfig.json
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.dll
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.pdb
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Json.dll
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.AssemblyReference.cache
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.GeneratedMSBuildEditorConfig.editorconfig
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfoInputs.cache
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfo.cs
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CoreCompileInputs.cache
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CopyComplete
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.dll
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\refint\פרויקט2.dll
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.pdb
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.genruntimeconfig.cache
+E:\!elisheva\‏‏תיקיה חדשה (2)\פרויקט2\פרויקט2\obj\Debug\net6.0\ref\פרויקט2.dll
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.exe
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlTags.json
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\HtmlVoidTags.json
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.deps.json
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.runtimeconfig.json
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.dll
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\פרויקט2.pdb
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.AssemblyReference.cache
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfoInputs.cache
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfo.cs
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CoreCompileInputs.cache
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CopyComplete
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.dll
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\refint\פרויקט2.dll
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.pdb
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\פרויקט2.genruntimeconfig.cache
+C:\Users\sus\Desktop\פרויקט2\פרויקט2\obj\Debug\net6.0\ref\פרויקט2.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\פרויקט2.exe
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\HtmlTags.json
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\HtmlVoidTags.json
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\פרויקט2.deps.json
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\פרויקט2.runtimeconfig.json
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\פרויקט2.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\פרויקט2.pdb
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.AssemblyInfo.cs
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.csproj.Up2Date
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\refint\פרויקט2.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.pdb
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\פרויקט2.genruntimeconfig.cache
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט2\crawler -הגשה\crawler\פרויקט2\obj\Debug\net6.0\ref\פרויקט2.dll

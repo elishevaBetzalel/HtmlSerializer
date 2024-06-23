@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630CB289-AD88-4572-BCBE-A10094FC99AE}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82.csproj|C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630CB289-AD88-4572-BCBE-A10094FC99AE}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82.csproj|solutionrelative:\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630CB289-AD88-4572-BCBE-A10094FC99AE}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82.csproj|C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\html.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630CB289-AD88-4572-BCBE-A10094FC99AE}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82.csproj|solutionrelative:\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\html.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630CB289-AD88-4572-BCBE-A10094FC99AE}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82.csproj|c:\\users\\the user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630CB289-AD88-4572-BCBE-A10094FC99AE}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82.csproj|solutionrelative:\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630CB289-AD88-4572-BCBE-A10094FC99AE}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82.csproj|C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\htmltags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{630CB289-AD88-4572-BCBE-A10094FC99AE}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82.csproj|solutionrelative:\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\htmltags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlTags.json",
+              "DocumentMoniker": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\HtmlTags.json",
+              "RelativeDocumentMoniker": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\HtmlTags.json",
+              "ToolTip": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\HtmlTags.json",
+              "RelativeToolTip": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\HtmlTags.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T20:18:54.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\function.cs",
+              "RelativeDocumentMoniker": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\function.cs",
+              "ToolTip": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\function.cs",
+              "RelativeToolTip": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:15:14.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\Program.cs",
+              "RelativeDocumentMoniker": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\Program.cs",
+              "ToolTip": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\Program.cs",
+              "RelativeToolTip": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:15:15.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Html.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\Html.cs",
+              "RelativeDocumentMoniker": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\Html.cs",
+              "ToolTip": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\crawler -\u05D4\u05D2\u05E9\u05D4\\crawler\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\Html.cs",
+              "RelativeToolTip": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D82\\Html.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:15:15.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 987,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
